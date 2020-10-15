@@ -1,0 +1,187 @@
+body{
+	background-image: url(img/bgr.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.name{
+	text-align: center;
+	width: 100%;
+	float: left;
+}
+.name h1{
+	font-family: 'Sansita Swashed', cursive;
+	color: yellow;
+	padding-top: 60px;
+}
+
+.name h5{
+	color:white;
+}
+.about{
+	width: 100%;
+}
+
+.about img{
+	height: 200px;
+	width: 300px;
+	margin-right: 20px;
+	float: left;
+}
+
+.about h1{
+	color: yellow;
+	font-family: 'Peddana', serif;
+}
+
+.about p{
+	color:white;
+	font-family: 'Peddana', serif;
+	font-size: 20px;
+
+}
+
+.services {
+	float: left;
+	width: 100%;
+	text-align: center;
+}
+
+.services h1{
+	color: yellow;
+		font-family: 'Peddana', serif;
+
+
+}
+
+.stack{
+	float: left;
+	width: 30%;
+	padding:20px;
+	margin: 10px;
+}
+
+.stack h3{
+	font-family: 'Peddana', serif;
+	color: orange;
+}
+
+.stack p{
+	font-family: 'Peddana', serif;
+	color: white;
+	font-size: 20px;
+
+
+}
+
+.inventor{
+	width: 100%;
+	float: left;
+	margin: 30px;
+
+}
+
+.inventor img{
+	height: 300px;
+	width: 500px;
+	margin-right: 20px;
+	margin-top: 20px;
+	float: left;
+}
+
+.inventor h3{
+	font-family: 'Peddana', serif;
+	color: yellow;
+	font-size: 40px;
+
+}
+
+.inventor p{
+	font-family: 'Peddana', serif;
+	color: white;
+	font-size: 20px;	
+}
+
+.business {
+	width: 100%;
+	float: left;
+}
+
+.business img{
+	height: 300px;
+	width:500px;
+	float: right;
+	margin-right: 20px;
+	margin-top: 20px;
+}
+
+.business h3{
+	font-family: 'Peddana', serif;
+	color: yellow;
+	font-size: 40px;
+}
+
+.business p{
+	font-family: 'Peddana', serif;
+	color: white;
+	width: 70%;
+	font-size: 20px;
+}
+
+.actor{
+	width: 100%;
+	float: left;
+}
+
+.actor img{
+	height: 300px;
+	width:500px;
+	float: left;
+	margin-right: 20px;
+	margin-top: 20px;
+}
+
+.actor h3{
+	font-family: 'Peddana', serif;
+	color: yellow;
+	font-size: 40px;
+}
+
+.actor p{
+	font-family: 'Peddana', serif;
+	color: white;
+	font-size: 20px;
+}
+
+
+.works{
+	width: 100%;
+	float: left;
+}
+
+.experience{
+	width: 100%;
+	float: left;
+	text-align: center;
+}
+
+.experience h1{
+	font-family: 'Peddana', serif;
+	color: yellow;
+	font-size: 50px;
+}
+.exp{
+	width: 70%;
+	margin-left:100px; 
+}
+.exp h3{
+	font-family: 'Peddana', serif;
+	color: yellow;
+	font-size: 40px;
+}
+
+.exp p{
+	font-family: 'Peddana', serif;
+	color: white;
+	font-size: 20px;
+	padding-left: 50px;
+}
